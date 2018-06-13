@@ -1,0 +1,141 @@
+body {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    padding: 20px;
+
+}
+
+img.profile-image {
+    width: 150px;
+    padding-right: 20px;
+
+}
+header {
+    position: static;
+    width: 960px;
+    margin:0 auto;
+    background-color: #ffffff;
+    border-bottom: 2px solid #cccccc;
+}
+
+main {border-color: #cccccc;
+}
+h1 {font-size: 30px;
+    padding: 15px;
+    display: inline-block;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    
+
+
+}
+h1, h2 {font-family: 'Georgia', Times, 'Times New Roman', serif;}
+
+nav a {
+text-decoration: none;
+color: #777777;
+letter-spacing: 2px;
+word-spacing: 7px;
+
+}
+h2 {color: #4aaaa5;
+    padding: 15px;
+    font-weight: bolder;
+    font-size: 20px;
+    /* border-bottom: 2px solid #cccccc; */
+    
+
+}
+
+
+nav {
+    float: right;
+    margin-top: 25px;
+
+}
+
+section {
+    width: 960px;
+    height: 500px;
+    margin:0 auto;
+    background-color: #ffffff;
+    color: black;
+    margin-bottom: 10px;
+   
+
+
+        
+}
+
+footer p {
+    text-align: center;
+    
+
+}
+footer {
+    background-color: #666666; 
+    color: #ffffff; 
+    
+}
+
+body {
+    background-color: #ffffff;
+
+}
+.profile-image {
+    float: left;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #4aaaa5;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+#contact {
+    margin-top: 30px;
+    block-size: 15px;
+
+}
+
+/* .portfolio {
+    margin: 10px;
+} */
+
+.container {
+    margin: 10px;
+    border-top: 2px solid #ccc;
+
+}
+
+.wrapper {
+    width: 100%;
+    margin: 20px;
+
+}
+section {
+    width: 100%;
+}
+
